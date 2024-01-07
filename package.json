@@ -2,9 +2,15 @@
   "name": "abc",
   "version": "0.0.1",
   "description": "my server",
+<<<<<<< HEAD
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
+=======
+   "scripts": {
+      "start": "node index.js",
+      "dev": "nodemon index.js"
+>>>>>>> eec82354a4b39083eb913c526e395c02f21013b2
   },
   "dependencies": {
     "@prisma/client": "^5.7.1",
